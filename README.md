@@ -1,4 +1,4 @@
-# FIR-FILTER-DESIGN
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/dafcd084-7793-45fa-aa77-f09d62717c4f" /># FIR-FILTER-DESIGN
 # EXP 4 d: Design-of-FIR-Digital-Filter-using-Blackman-Window
 
 # AIM 1:  To perform Design-of-LOWPASS FIR-Digital-Filter-using-Blackman-Window using SCILAB.
@@ -38,6 +38,11 @@ xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
 title('Frequency Response of FIR LPF using Blackman Window');
 ```
+### CALCULATION:
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-19 at 08 43 23" src="https://github.com/user-attachments/assets/d6f6cafa-b980-4b72-ad0a-0e828bea1a20" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-19 at 08 43 36" src="https://github.com/user-attachments/assets/6781764b-0429-4819-b07e-49f47265e7a4" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-19 at 08 43 45" src="https://github.com/user-attachments/assets/2a24588e-6c0c-432f-83e0-035117766f9d" />
+
 # OUTPUT: 
 <img width="727" height="580" alt="image" src="https://github.com/user-attachments/assets/61bd977a-7369-45e9-9153-3a176a7c69a7" />
 
